@@ -1,0 +1,21 @@
+package com.bridgelabz.day13;
+
+import java.util.Scanner;
+
+public class BinarySearch 
+{
+	static int binarySearch(String[] array, String x)
+	{
+		int l = -0; r = array.length - 1;
+	}
+
+	public static void main(String[] args)
+	{
+		String[] array = { "Nethaji" , "Swathi" , "Dinesh" , "Navya" };
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter the Name: ");
+		String x = scanner.next();
+		int result = binarySearch(array , x);
+	}
+
+}

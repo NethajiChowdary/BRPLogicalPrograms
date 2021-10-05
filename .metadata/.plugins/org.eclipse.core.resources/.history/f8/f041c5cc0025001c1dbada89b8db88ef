@@ -1,0 +1,11 @@
+package com.bridgelabz.day14;
+
+public class InsertionSort
+{
+
+	public static void main(String[] args) 
+	{
+		
+	}
+
+}

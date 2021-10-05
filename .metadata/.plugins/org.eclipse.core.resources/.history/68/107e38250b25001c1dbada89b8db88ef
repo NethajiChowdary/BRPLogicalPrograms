@@ -1,0 +1,14 @@
+package com.bridgelabz.day14;
+
+import java.util.Scanner;
+
+public class FrequencyCount
+{
+   
+	public static void main(String[] args) 
+	{
+		Scanner scanner = new Scanner(System.in);
+		String s = scanner.nextLine();
+	}
+
+}
